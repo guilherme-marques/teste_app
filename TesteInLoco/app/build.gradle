@@ -35,4 +35,6 @@ dependencies {
     // Required for Notification Ads.
     // Recommended for additional Ad targeting
     compile 'com.google.android.gms:play-services-location:8.4.0'
+
+    compile 'com.inlocomedia.android:android-admob-adapter:2.0.0'
 }
